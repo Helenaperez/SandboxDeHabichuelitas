@@ -3,4 +3,5 @@ def print_hi(name):
 
 
 if __name__ == '__main__':
-    print_hi('Habichuelitas')  
+    print_hi('Habichuelitas')
+    print("Esto es una prueba de Chenyu")
