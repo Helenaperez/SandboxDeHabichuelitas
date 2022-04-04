@@ -14,3 +14,5 @@ Cada uno tiene su propia tarea con propia carpeta. Aquí tenéis mi mensaje que 
 ######    - Un menú: Desarolla un menú con un button con el nombre del videojuego que se puede cliquear. Después de cliquearlo aparece el nombre de nuestro juego.
       
 ######    - Tile editor: Aprende a utilizar el programa y construye un pequeño mapa.
+
+######    - Sonido: Uso de diferentes sonidos. Se puede realizar por ejemplo con "time.sleep()" de python.
