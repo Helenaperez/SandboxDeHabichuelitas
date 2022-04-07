@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.3" orientation="orthogonal" renderorder="right-down" width="20" height="14" tilewidth="32" tileheight="32" infinite="0" nextlayerid="9" nextobjectid="1">
+ <tileset firstgid="1" source="../../Downloads/mainlevbuild.tsx"/>
+ <tileset firstgid="641" source="../../Downloads/TX Tileset Grass.tsx"/>
+ <tileset firstgid="705" source="../../Downloads/TX Plant.tsx"/>
+ <tileset firstgid="961" source="../../Downloads/TX Struct.tsx"/>
+ <tileset firstgid="1217" source="../../Downloads/TX Tileset Wall.tsx"/>
+ <tileset firstgid="1473" source="../../Downloads/TX Props.tsx"/>
+ <layer id="1" name="suelo" width="20" height="14" opacity="0.65">
+  <data encoding="base64" compression="zlib">
+   eJxrZGJgaALiZiBuAeJGCvmdQNwFxN1A3EMF/kQgngTEk4F4ChX4M4F4FhDPBuI5VODjCo9GApjU8IPpQ5dHNpPU8MPnvoEOP2Q+zD/USn8w/1Ar/cH8Q4/010hG+A1k/gUAC9KcLw==
+  </data>
+ </layer>
+ <layer id="6" name="capa 2" width="20" height="14">
+  <data encoding="base64" compression="zlib">
+   eJyVklFOAjEURZuZjitwBboDWSHqj+CP4I/Aj/yI/ohA4lAZFzG4AnAF4gK8je+l19oJoclJ07nzbnrfazszpt3AlZDSzsEFGBBDqklxI6S0DuiCa/J6pZoUPdDfo92CCtyDcULT/RBmwC/X0JNLUFtj1g182JC5BE+Un3vOfhtrGtcn+VVyP/XTfqT8tgIvf2a/OViSX+yjfKFmJ9Q5cubh/B3d7z3Ky7NXssKYXNjAa5uHsy3CHH3WRZSX56vwGz3BfU7t33/vRH8DK/LTGn2Pg+z/mz+DV8sGD/9tBI6Pfv047wOYSB+czP4x2rVH/G5VG0fzeAZT+eakHy/RrpojH9bKKG+K4YFoX38AfVajjg==
+  </data>
+ </layer>
+ <layer id="7" name="plantas" width="20" height="14">
+  <data encoding="base64" compression="zlib">
+   eJzdz0EKgkAYhuEfZSzwauUJqhOUdzC8QJfSTjBFtc6o1hnpwle0jaAu+ld98C4GnQcmcURS2pPGLM6BjkreFSejm5L3wsnp/YN34u6ZLpQYkYkrMnX7/98NfKt3x3nQk6xpzDFnO2B+cAoq2zfaHq+7r9m1I84+xSPv+MfNPJE5BZ6Ot8BZ0krJW+NsKFTytFcBbjAdjg==
+  </data>
+ </layer>
+ <layer id="8" name="obj" width="20" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYBhZQI2NuuaZAc17xko989iA5n2jonliVPbvUAe7BkF4eA8CN9ALAAC2jgOI
+  </data>
+ </layer>
+</map>
